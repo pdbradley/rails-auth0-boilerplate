@@ -29,7 +29,7 @@ gem 'turbolinks', '~> 5'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 
-gem 'omniauth-auth0', '~> 2.2'
+gem 'omniauth-auth0', '~> 2.4'
 gem 'omniauth-rails_csrf_protection', '~> 0.1'
 
 group :development, :test do
